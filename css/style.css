@@ -638,8 +638,20 @@ body {
     margin-right: 30px;
   }
 
+  .slide {
+    padding: 45px;
+  }
+
   .slide-title {
     font-size: 35px;
     line-height: 38px;
+  }
+
+  .btn-primary {
+    padding: 10px 25px;
+  }
+
+  .footer-logo {
+    width: 155px;
   }
 }
