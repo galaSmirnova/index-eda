@@ -606,6 +606,14 @@ body {
     max-width: 100%;
   }
 
+  .tabs-link {
+    margin-right: 35px;
+  }
+
+  .card {
+    background-position: center;
+  }
+
   .section-title {
     line-height: 40px;
   }
@@ -621,7 +629,7 @@ body {
 
   .benefits {
     padding-top: 60px;
-    padding-bottom: 80px;
+    padding-bottom: 60px;
   }
 
   .benefits-card {
@@ -639,7 +647,9 @@ body {
   }
 
   .slide {
-    padding: 45px;
+    padding: 0 25px;
+    min-height: 300px;
+    background-position: center;
   }
 
   .slide-title {
@@ -653,5 +663,6 @@ body {
 
   .footer-logo {
     width: 155px;
+    margin-right: 30px;
   }
 }
